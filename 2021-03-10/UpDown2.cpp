@@ -40,4 +40,6 @@ REAL sumdown(int N)
   return suma;
 }
 
-//Este es el mismo código de la clase anterior, pero al ejecutar vamos a emplear el makefile para disminuir los pasos que hay que hacer. 
+//Este es el mismo código de la clase anterior, pero al ejecutar vamos a emplear el makefile para automatizar los pasos que hay que hacer. 
+//Para guardar la gráfica en pdf en gnuplot ponemos:
+// set term pdf; set out 'datos.pdf'; replot
