@@ -1,0 +1,4 @@
+Objetivo: Actualizar el makefile para:
+1. Compilar el cpp
+2. Crear los datos 
+3. Crear la figura
